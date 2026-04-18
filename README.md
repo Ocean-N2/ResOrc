@@ -16,8 +16,6 @@ Produce auditor-ready evidence (logs, metrics, reports)
 Important: This platform is intended only for environments where explicit written authorization exists for testing.
 
 
-
-
 1.2 High-Level Architecture
 ┌──────────────────────────────┐
 │        Operator / CLI        │
@@ -42,8 +40,6 @@ Important: This platform is intended only for environments where explicit writte
 │  TRex Agent  │  │ MHDDoS Agent(s)  │
 │ (STL / ASTF) │  │ (L4 / L7 Tools)  │
 └──────────────┘  └──────────────────┘
-
-
 
 
 2. Core Components
